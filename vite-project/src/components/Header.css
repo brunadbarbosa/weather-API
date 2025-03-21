@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+}
+
+.header--title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #000;
+}
